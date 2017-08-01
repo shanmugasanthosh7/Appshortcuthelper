@@ -1,5 +1,3 @@
-package com.genix.nitp.appmodules.supportclass;
-
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ShortcutInfo;
